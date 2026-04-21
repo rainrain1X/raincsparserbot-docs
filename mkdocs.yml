@@ -21,8 +21,8 @@ theme:
         icon: material/weather-sunny
         name: Светлая тема
   features:
-    - navigation.tabs
     - navigation.sections
+    - navigation.expand
     - navigation.top
     - search.suggest
     - content.code.copy
