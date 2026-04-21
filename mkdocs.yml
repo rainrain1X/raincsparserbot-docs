@@ -1,0 +1,45 @@
+site_name: Парсер для CS:GO Market
+site_description: Полная документация RainCsParserBot
+repo_name: RainCsParserBot Docs
+repo_url: https://github.com/ТВОЙ_НИК/ИМЯ_РЕПОЗИТОРИЯ
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: ru
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Тёмная тема
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Светлая тема
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+    - content.action.edit
+
+plugins:
+  - search
+
+nav:
+  - Главная: index.md
+  - Для кого нужен парсер: for-whom.md
+  - Возможности парсера: features.md
+  - Быстрый старт: quickstart.md
+  - Работа с листами скинов: sheets.md
+  - Добавление скинов: adding-skins.md
+  - Просмотр и редактирование скинов: editing.md
+  - Запуск парсинга: running.md
+  - Покупка скинов: buying.md
+  - Контакты: contacts.md
+  - Заключение: conclusion.md
