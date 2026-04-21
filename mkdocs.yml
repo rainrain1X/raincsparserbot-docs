@@ -1,7 +1,7 @@
 site_name: Парсер для CS:GO Market
 site_description: Полная документация RainCsParserBot
 repo_name: RainCsParserBot Docs
-repo_url: https://github.com/rainrain1X/raincsparserbot-docs
+repo_url: https://github.com/rainin1X/raincsparserbot-docs
 edit_uri: edit/main/docs/
 
 theme:
@@ -27,6 +27,7 @@ theme:
     - search.suggest
     - content.code.copy
     - content.action.edit
+    - navigation.instant
 
 plugins:
   - search
