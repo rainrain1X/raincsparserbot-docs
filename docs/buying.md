@@ -17,7 +17,9 @@
 - Предмет уже куплен или снят с продажи
 - Не удалось получить актуальную цену
 <img width="1067" height="343" alt="Снимок экрана 2026-04-21 053454" src="https://github.com/user-attachments/assets/a48079ce-e846-4501-8602-005085368bf0" />
+
 <img width="1059" height="211" alt="Снимок экрана 2026-04-21 053517" src="https://github.com/user-attachments/assets/96159668-b6c0-4a8f-9d4b-b2cb7479a743" />
+
 <img width="1028" height="193" alt="Снимок экрана 2026-04-21 054002" src="https://github.com/user-attachments/assets/ec2fbc77-9d01-4566-8d9a-40c31bd9b419" />
 
 
