@@ -31,8 +31,12 @@
 
 Скин добавится в выбранный лист и будет отображаться в разделе мониторинга.
 
+
 Правильный пример
+
 <img width="608" height="528" alt="Снимок экрана 2026-04-21 045148" src="https://github.com/user-attachments/assets/e1dd1ab3-4831-4998-8361-e6c327f4d77b" />
 
+
 Неправильный пример
+
 <img width="530" height="282" alt="Снимок экрана 2026-04-21 045218" src="https://github.com/user-attachments/assets/2c02c015-814c-42c3-a798-552d0f553f81" />
